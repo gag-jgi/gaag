@@ -1,0 +1,2 @@
+git pull
+fix_perms -g genome /usr/common/jgi/gaag/
